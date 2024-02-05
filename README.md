@@ -8,4 +8,4 @@ This is a simple example on how to create a telegram bot and connect it to a Ser
 - Install all the required(imported) libraries
 - Replace Token and ServiceNow instance url with yours.
 ## Step 3
-- Modify it to you needs. Chat-GPT will help you ;)
+- Modify it to you needs. Telegram API is huge, Chat-GPT will help you ;)
