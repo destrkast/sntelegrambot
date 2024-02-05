@@ -7,5 +7,6 @@ This is a simple example on how to create a telegram bot and connect it to a Ser
 - Copy script
 - Install all the required(imported) libraries
 - Replace Token and ServiceNow instance url with yours.
+- To build requests to ServiceNow use REST API Explorer for the desired table.
 ## Step 3
 - Modify it to you needs. Telegram API is huge, Chat-GPT will help you ;)
