@@ -12,7 +12,8 @@ This is a simple example on how to create a telegram bot and connect it to a Ser
 ## Step 3
 - Modify it to you needs. Telegram API is huge, Chat-GPT will help you ;)
 
-## Next steps for V3.0.0 to be implemented
+## Next steps for V3.0.0 to be implemente_
+- SN should notify a user via sntelegrambot about updates on the incidents where he is a caller.
 - To send messages to the chat just create REST message in ServiceNow and use this url template: https://api.telegram.org/bot{token}/sendMessage (you can use this for incident state updates and so on).
   Example payload:
   {
